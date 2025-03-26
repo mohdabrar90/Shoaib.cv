@@ -1,0 +1,31 @@
+*{
+    background-color: rgb(79, 132, 148);
+}
+.hr{
+    background-color: black;
+}
+#heading{
+    color: rgb(225, 235, 235) ;
+    font-size: larger;
+    text-transform: capitalize;
+}
+#heading1{
+    color: rgb(225, 235, 235);
+     font-size: larger;
+     text-transform: capitalize;
+}
+#heading2{
+    color: rgb(225, 235, 235);
+     font-size: larger;
+     text-transform: capitalize;
+}
+#heading3{
+    color: rgb(225, 235, 235);
+    font-size: larger;
+    text-transform: capitalize;
+}
+#heading4{
+    color: rgb(225, 235, 235);
+     font-size: larger; 
+     text-transform: capitalize;
+}
